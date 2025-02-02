@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in bash scripting: improper iteration over an array within a for loop. The original script processes only the first element of the array because the array isn't expanded correctly. The solution shows the correct way to iterate through the array elements.
